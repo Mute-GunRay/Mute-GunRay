@@ -25,6 +25,7 @@ I am proficient to varying degrees in multiple areas of software engineering bot
 - Bootstrap CSS
 - Tailwind CSS
 - VueJS
+- NextJS
 **Back End**
 - SQL
 - Ruby on Rails
@@ -44,3 +45,4 @@ I am proficient to varying degrees in multiple areas of software engineering bot
 - Chron Jobs
 - Ruby Scripting
 - Unix Terminal
+- Git
