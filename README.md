@@ -19,14 +19,14 @@ I am proficient to varying degrees in multiple areas of software engineering bot
 - Emacs Lisp
 
 ### Web Development:
-**Front End:**
+#### Front End:
 - Vanilla HTML, CSS, and JavaScript
 - ReactJS
 - Bootstrap CSS
 - Tailwind CSS
 - VueJS
 - NextJS
-**Back End**
+#### Back End:
 - SQL
 - Ruby on Rails
 - Turbo Rails
